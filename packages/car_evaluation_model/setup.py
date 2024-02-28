@@ -5,9 +5,9 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'car_evaluation_model'
 DESCRIPTION = "Classification model to predict quality of a car."
-URL = "https://github.com/kurtispykes/car-evaluation-project/tree/Main/packages/car_evaluation_model"
-EMAIL = "kurtispykes@gmail.com"
-AUTHOR = "Kurtis Pykes"
+URL = "https://github.com/inhwaS/car-evaluation-project"
+EMAIL = "patate.douce.pomme@gmail.cm"
+AUTHOR = "Inhwa Son"
 REQUIRES_PYTHON = ">=3.8.0"
 
 long_description = DESCRIPTION
